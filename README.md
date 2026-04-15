@@ -1,5 +1,4 @@
-<img width="300" height="928" alt="Screenshot_2026_04_15-10" src="https://github.com/user-attachments/assets/f32d16d8-f311-4b72-a635-c6f48ea04eae" />
-<img width="300" height="934" alt="Screenshot_2026_04_15-9" src="https://github.com/user-attachments/assets/b66d30f2-3e80-476a-8f39-920f8fddf972" />
+
 #
 #
 # Note-and-Daily-Task-Flutter-APP-Using-Provider.
@@ -14,3 +13,5 @@ Flutter app with clean code for an android and ios app for note and taily task f
 <img width="300" height="933" alt="Screenshot_2026_04_15-2" src="https://github.com/user-attachments/assets/1e0e52ec-41a4-49c4-a3b4-ec08375f91ea" />
 <img width="300" height="936" alt="Screenshot_2026_04_15-1" src="https://github.com/user-attachments/assets/34d7490f-be55-49bb-a0f5-29f485b62b5a" />
 <img width="300" height="933" alt="Screenshot_2026_04_15-8" src="https://github.com/user-attachments/assets/f7d4c734-f6b9-4a00-9c1f-a8792950c647" />
+<img width="300" height="928" alt="Screenshot_2026_04_15-10" src="https://github.com/user-attachments/assets/f32d16d8-f311-4b72-a635-c6f48ea04eae" />
+<img width="300" height="934" alt="Screenshot_2026_04_15-9" src="https://github.com/user-attachments/assets/b66d30f2-3e80-476a-8f39-920f8fddf972" />
