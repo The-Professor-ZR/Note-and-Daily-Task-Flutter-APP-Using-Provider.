@@ -1,7 +1,11 @@
 <img width="300" height="928" alt="Screenshot_2026_04_15-10" src="https://github.com/user-attachments/assets/f32d16d8-f311-4b72-a635-c6f48ea04eae" />
 <img width="300" height="934" alt="Screenshot_2026_04_15-9" src="https://github.com/user-attachments/assets/b66d30f2-3e80-476a-8f39-920f8fddf972" />
+#
+#
 # Note-and-Daily-Task-Flutter-APP-Using-Provider.
 Flutter app with clean code for an android and ios app for note and taily task features also have the dark and light theme
+#
+#
 <img width="300" height="932" alt="Screenshot_2026_04_15-7" src="https://github.com/user-attachments/assets/7c9c1d01-3823-4141-8f53-4501b42dfaa2" />
 <img width="300" height="942" alt="Screenshot_2026_04_15-6" src="https://github.com/user-attachments/assets/5a346f92-0dc7-4e42-8fe9-7b45fc1a27a2" />
 <img width="300" height="933" alt="Screenshot_2026_04_15-5" src="https://github.com/user-attachments/assets/e421d35a-187d-40e2-9088-8a71a0852f22" />
