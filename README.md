@@ -2,7 +2,7 @@
 #
 #
 # Note-and-Daily-Task-Flutter-APP-Using-Provider.
-Flutter app with clean code for an android and ios app for note and taily task features also have the dark and light theme
+Flutter app with clean code for an android and ios app for note and daily task features also have the dark and light theme
 #
 #
 <img width="300" height="932" alt="Screenshot_2026_04_15-7" src="https://github.com/user-attachments/assets/7c9c1d01-3823-4141-8f53-4501b42dfaa2" />
